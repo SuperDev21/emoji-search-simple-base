@@ -40,7 +40,7 @@ class App extends React.Component{
   filltersearch = (e) =>{
     let newEmojis = [...emojis]
     if(e.key === "Enter")
-    this.setState({emojis: newEmojis.filter((elem) =>  elem.keywords.includes(this.state.searchValue))})
+    this.setState({emojis: newEmojis.filter((elem) =>  elem.title.includes(this.state.searchValue))})
   }
 
   render(){
