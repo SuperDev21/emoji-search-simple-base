@@ -1,0 +1,26 @@
+.inputSearch{
+    /* padding: 15px 19%; */
+    background-color: bisque;
+    border-radius: 20px;
+    text-align: center;
+    border: 0px ;
+}
+.loupe{
+    /* color: white; */
+}
+.divSearch{
+    width: 60%;
+    background-color: bisque;
+    border-radius: 20px;
+    padding: 20px;
+    margin:30px auto 40px auto;
+   
+}
+
+input{
+    width: 90%;
+    border: none;
+    font-size: 18px;
+    outline: none;
+    background-color: rgb(235, 203, 165);
+}
