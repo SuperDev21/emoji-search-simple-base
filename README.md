@@ -1,6 +1,6 @@
 # Emojis Search project
 
-Application web qui affiche des données à partir du fichier `emojis.json`
+Application web qui affiche des données à partir du fichier `emojis.json`. Visualiser le projet dans ce lien `` https://search-simple-emoji.netlify.app/ ``
 
 ## Objectifs du projet
 
